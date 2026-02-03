@@ -47,14 +47,7 @@ fake_news_detection/
 
 ## Installation
 
-### 1. Clone with Submodules
-
-```bash
-git clone --recursive https://github.com/YOUR_USERNAME/fake_news_detection.git
-cd fake_news_detection
-```
-
-Or if you've already cloned:
+### 1. Clone Submodules
 
 ```bash
 git submodule update --init --recursive
