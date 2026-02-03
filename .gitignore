@@ -143,14 +143,9 @@ cython_debug/
 # VS Code
 .vscode/
 
-# Model checkpoints and outputs
-*.pt
-*.pth
-*.bin
-*.h5
+# Model checkpoints (large files tracked via Git LFS)
+# *.pt, *.pth, *.bin, *.h5, *.ckpt are tracked by LFS - see .gitattributes
 *.hdf5
-*.ckpt
-outputs/
 checkpoints/
 
 # Large data files
