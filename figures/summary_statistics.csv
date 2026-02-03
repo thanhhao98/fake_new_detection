@@ -1,0 +1,7 @@
+Metric,Overall,Real News,Fake News
+Total Samples,5171,4237,934
+Avg. Character Length,770.6,764.8,797.0
+Avg. Word Count,140.5,137.7,153.1
+Avg. Likes,1300839.2,1556895.4,861.6
+Avg. Shares,386819.2,468234.3,922.8
+Avg. Comments,947371.7,1127254.1,185.3

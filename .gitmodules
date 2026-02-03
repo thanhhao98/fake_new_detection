@@ -1,0 +1,3 @@
+[submodule "vn_fake_news"]
+	path = vn_fake_news
+	url = https://github.com/PoLsss/Read_time_Vietnamese_FakeNews_Detection.git
